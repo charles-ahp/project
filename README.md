@@ -1,3 +1,3 @@
-# crudapp
+# crud app
 
-Site: https://charles-ahp.github.io/
+Welcome to my personal project where I created a CRUD app using Vue 3, Node, Express, Sequelize, Axios, and MySQL.
